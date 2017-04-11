@@ -1,0 +1,7 @@
+{
+  "realm": "TRE-PA",
+  "auth-server-url": "http://10.13.16.202:8085/auth",
+  "ssl-required": "external",
+  "resource": "keycloak-angular2-1",
+  "public-client": true
+}
